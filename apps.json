@@ -1,7 +1,7 @@
 [
   {
-    "url": "https://github.com/frappe/frappe",
-    "branch": "version-16"
+    "url": "https://github.com/rainyshu/erp-frappe",
+    "branch": "develop"
   },
   {
     "url": "https://github.com/rainyshu/erp-erpnext",
